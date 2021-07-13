@@ -1,0 +1,84 @@
+#one {
+    float: right;
+    margin: 50% px;
+}
+
+#logo {
+    float:right;
+}  
+
+#head {
+    text-align: center;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+body {
+    
+    height:200 px;
+    
+    border: cornsilk;
+}
+
+.line {
+    text-decoration: underline;
+    background-image: linear-gradient(yellow,red);
+   
+}
+ 
+a:hover {
+    background-color:red;
+}
+
+body.groove {
+    border-style:groove;
+}
+
+table {
+    
+    color: black;
+    table-layout: auto;
+}
+
+ul {
+    
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    list-style-type: square;
+    
+}
+
+ol {
+    
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: lower-roman;
+}
+
+#firstpara {
+    font-family: Helvetica, sans-serif;
+    font-size: medium;
+}
+
+tr{
+    color:black;
+    font-family:cursive,'Arial Narrow Bold', sans-serif;
+}
+
+th{
+    color: black;
+    background-image: repeating-linear-gradient(yellow,red);
+    text-decoration: underline;
+}
+li {
+    color: black;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+he{
+    font-family: sans-serif;
+    color:black
+}
