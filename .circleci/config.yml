@@ -5,12 +5,6 @@ orbs:
   # Declare a dependency on the welcome-orb
   MSIT: circleci/welcome-orb@0.4.1
 # Orchestrate or schedule a set of jobs
-workflows:
-  # Name the workflow "welcome"
-  MSIT:
-    # Run the welcome/run job in its own container
-    jobs:
-      - MSIT/run
 jobs:
   build:
     docker:
