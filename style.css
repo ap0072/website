@@ -22,14 +22,10 @@ body {
     border: cornsilk;
 }
 
-.line {
-    text-decoration: underline;
-    background-image: linear-gradient(yellow,red);
-   
-}
+
  
 a:hover {
-    background-color:red;
+    background-color:greenyellow;
 }
 
 body.groove {
@@ -42,13 +38,7 @@ table {
     table-layout: auto;
 }
 
-ul {
-    
-   
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    list-style-type: square;
-    
-}
+
 
 ol {
     
